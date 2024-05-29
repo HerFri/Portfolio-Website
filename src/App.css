@@ -205,6 +205,18 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   pointer-events: none;
 }
 
+.myimage {
+  width: 200px;
+  height: 200px;
+}
+
+/* Skills */
+
+.skill-tabs {
+  margin-top: 200px;
+  background-color: green;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
